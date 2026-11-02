@@ -1,0 +1,217 @@
+---
+title: "Mircea Gherghina"
+subtitle: |
+  Postdoctoral Research Associate<br>
+  Climate Solutions Lab, Watson School of International and Public Affairs<br>
+  Brown University
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - text: CV
+      href: cv.pdf
+    - text: Email
+      href: mailto:mircea_gherghina@brown.edu
+    - text: Brown profile
+      href: https://climate.watson.brown.edu/people/mircea-gherghina
+---
+
+I am a Postdoctoral Research Associate at the Watson School of International and Public Affairs at Brown University, where I am part of the Climate Solutions Lab. I received my PhD in Sociology from the University of Toronto.
+
+My current work follows two lines. The first looks at inequalities in distributive environmental policies and green markets, including household adoption of solar PV in Connecticut and New York; at Brown, I am extending this to how climate risks shape community resilience and energy behavior. The second, which grew out of my dissertation, asks how emerging climate technologies such as carbon capture gain political support despite uncertain outcomes, and how stakeholder representation in U.S. Senate energy hearings has changed over two decades. I combine computational text analysis with interviews, including with carbon capture entrepreneurs.
+
+Before academia, I worked at the European Central Bank and as a freelance researcher. I hold an MSc in Social Science Research Methods from the University of Bristol and an undergraduate degree in economics from the Bucharest University of Economic Studies.
+
+<span class="status">How to say my name: [Mircea](https://www.youtube.com/watch?v=IW060dQiK8I) · [Gherghina](https://ro.forvo.com/word/gherghina/)</span>
+
+::: interests
+**Research interests:** environmental policy, sociology of climate change, economic sociology, organizational sociology, science and technology studies, inequality, computational social science
+:::
+
+<!-- ============ RESEARCH TAB ============ -->
+:::: {#research .tab-section data-tab="Research"}
+
+## Publications
+
+::: paper
+**Who Speaks for Energy? Two Decades of Stakeholder Representation in U.S. Senate Hearings**<br>
+<span class="status">*Energy Research & Social Science*, in press.</span>
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**Mind the Gap: Supply-Side Effects on Differential Diffusion in the Household Energy Technologies Market** (with Fedor A. Dokshin, equal authorship)<br>
+<span class="status">*Research in the Sociology of Organizations* 102, 2026.</span>
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**Unequal solar photovoltaic performance by race and income partly reflects financing models and installer choices** (with Fedor A. Dokshin and Benjamin Leffel)<br>
+<span class="status">*Nature Energy* 10: 697–706, 2025.</span>
+
+[Paper](https://doi.org/10.1038/s41560-025-01743-7){.paper-links}
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**Party affiliation predicts homeowners' decisions to install solar PV, but partisan gap wanes with improved economics of solar** (with Fedor A. Dokshin)<br>
+<span class="status">*Proceedings of the National Academy of Sciences* 121(29), 2024.</span>
+
+[Paper](https://doi.org/10.1073/pnas.2303519121){.paper-links}
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**Closing the Green Gap? Changing Disparities in Residential Solar Installation and the Importance of Regional Heterogeneity** (with Fedor A. Dokshin and Brian C. Thiede)<br>
+<span class="status">*Energy Research & Social Science* 107: 103338, 2024.</span>
+
+[Paper](https://doi.org/10.1016/j.erss.2023.103338){.paper-links}
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+## Work in progress
+
+::: paper
+**Making Cleantech: The Emergence and Legitimation of Carbon Technologies**<br>
+<span class="status">Book manuscript in preparation.</span>
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**Technology Stacking, Urban Environments, and Economic Development** (with A. Gavris)<br>
+<span class="status">Revise and resubmit.</span>
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**Transforming Collaboration Networks** (with S. M. Breznitz and P. A. Clayton)<br>
+<span class="status">Revise and resubmit.</span>
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::: paper
+**The Moral Tensions of Scaling Up a Green Market**<br>
+<span class="status">In preparation for submission.</span>
+
+<!-- ABSTRACT: to show it, delete this line and the arrow line at the end, then paste the abstract.
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Abstract
+Paste the abstract here.
+:::
+-->
+:::
+
+::::
+
+<!-- ============ TEACHING TAB ============ -->
+:::: {#teaching .tab-section data-tab="Teaching"}
+
+My teaching covers quantitative and computational methods, along with substantive courses in environmental policy, economic sociology, and the sociology of science and technology.
+
+## Course instructor
+
+::: paper
+**Energy, Climate and Society** (IAPA 1700G)<br>
+<span class="status">Brown University, Spring and Fall 2026</span>
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Course description
+This course examines the social side of how energy is produced and used. It begins with fossil fuels and their effects on communities and the environment, then turns to energy transitions and the social forces that help or hold back renewable energy. A central question runs throughout: who benefits from energy change, and who bears its costs? Students build policy analysis skills by identifying energy challenges, assessing their social impacts, and proposing evidence-based solutions.
+:::
+:::
+
+::: paper
+**Social Data Analytics** (CCT 416)<br>
+<span class="status">University of Toronto, Winter 2024</span>
+
+[Syllabus](https://www.gherghina.com/wp-content/uploads/2025/09/Social_data_analytics.pdf){.paper-links}
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Course description
+A lab-based course on collecting and analyzing social data, for beginning and intermediate researchers. Students read recent "big data" studies and discuss their theory, critiques, and ethics, while learning Python programming, web scraping, data collection and storage, basic statistics, and data visualization. The course ends with a research project on a topic of each student's choice.
+:::
+:::
+
+## Teaching assistant, University of Toronto
+
+::: paper
+**Introduction to Quantitative Methods** (SOC 202)<br>
+<span class="status">Winter 2020, Fall 2022, Winter 2023</span>
+:::
+
+::: paper
+**Intermediate Quantitative Methods** (SOC 252)<br>
+<span class="status">Fall 2023</span>
+:::
+
+::: paper
+**Computational Methods in Sociology** (SOC 497)<br>
+<span class="status">Winter 2022</span>
+:::
+
+::: paper
+**Energy Policy & Environment** (ENV 350)<br>
+<span class="status">Winter 2022</span>
+:::
+
+::: paper
+**Introduction to Social Networks** (SOC 270)<br>
+<span class="status">Winter 2021, Summer 2021, Winter 2023</span>
+:::
+
+::: paper
+**Economic Sociology** (SOC 306)<br>
+<span class="status">Fall 2019, Fall 2020</span>
+:::
+
+::::

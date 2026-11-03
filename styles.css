@@ -140,3 +140,22 @@ a.paper-links[href^="http"]::after {
   -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14 4h6v6'/%3E%3Cpath d='M20 4l-9 9'/%3E%3Cpath d='M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5'/%3E%3C/svg%3E") no-repeat center / contain;
           mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M14 4h6v6'/%3E%3Cpath d='M20 4l-9 9'/%3E%3Cpath d='M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5'/%3E%3C/svg%3E") no-repeat center / contain;
 }
+
+/* Phones and tablets: keep CV / Email / Brown profile small and side by side */
+@media (max-width: 991.98px) {
+  .about-entity .about-links {
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    justify-content: center !important;
+    column-gap: 0.6em !important;
+    row-gap: 0.6em !important;
+    width: auto !important;
+    padding-bottom: 0.5em !important;
+  }
+  .about-entity .about-link {
+    font-size: 0.85em !important;
+    padding: 0.3em 0.75em !important;
+    border-radius: 4px !important;
+  }
+  .profile-tabs { margin-bottom: 1.2rem; }
+}
